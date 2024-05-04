@@ -1,0 +1,2 @@
+Question 6:
+Create a new branch named "sort-strings-by-length". Write a Python program to sort a list of strings based on the length of each string. Instructions: Create a new Python file named sort_strings_by_length.py. Write the program to take a list of strings as input and sort it based on the length of each string, from shortest to longest. After writing the code, initialize a Git repository in the directory, add the file, commit the changes, and push it to a new repository on GitHub. Finally, merge the branch into the main branch.
